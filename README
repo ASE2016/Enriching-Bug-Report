@@ -1,3 +1,2 @@
-Our experimental results recorded in Result_ASE2016.xlsx file include result of severity prediction and fixer recommendaiton using enriched bug reports
-, feature inluence, t-test, enrichment with different number of words.
-In Dataset1.zip is the dataset of Mozilla, in Dataset2.zip is the dataset of Eclipse and GCC.
+Our experimental results recorded in Result_ASE2016.xlsx file include result of severity prediction and fixer recommendaiton using enriched bug reports, feature inluence, t-test, enrichment with different number of words.
+Dataset1.zip records the dataset of Mozilla, and Dataset2.zip records the dataset of Eclipse and GCC.
