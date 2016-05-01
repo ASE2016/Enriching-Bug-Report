@@ -1,1 +1,3 @@
-Our experimental results recorded in Result_ASE2016.xlsx file include result of fixer recommendation and severity prediction,feature inluence, t-test,enhancement and Noisy example
+Our experimental results recorded in Result_ASE2016.xlsx file include result of severity prediction and fixer recommendaiton using enriched bug reports
+, feature inluence, t-test, enrichment with different number of words.
+In Dataset1.zip is the dataset of Mozilla, in Dataset2.zip is the dataset of Eclipse and GCC.
