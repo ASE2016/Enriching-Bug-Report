@@ -1,1 +1,1 @@
-In this project, we investigate how to enrich bug reports and verify whether they can improve the performance of two automated software maintenance tasks. Here, we open our data sets and the complete experimental results. In the future, we will open all source code after the paper is accepted.
+Our experimental results recorded in Result_ASE2016.xlsx file include result of fixer recommendation and severity prediction,feature inluence, t-test,enhancement and Noisy example
